@@ -92,6 +92,10 @@ nav{
 footer{
     width: 85vw;
     margin: auto;
+    background-color: beige;
+    border-radius: 15px;
+    margin-top:15px;
+    padding: 5px;
 }
 #my-footer-row-1{
     display: flex;
@@ -124,6 +128,9 @@ td:hover{
     display: flex;
     margin-top: 20px;
     margin-bottom: 20px;
+    background-color: rgb(251, 248, 248);
+    width: 100%;
+
 }
 #footer__row__2__col1{
     flex: 1;
