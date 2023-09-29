@@ -97,6 +97,13 @@ footer{
     margin-top:15px;
     padding: 5px;
 }
+.made{
+    font-display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
 #my-footer-row-1{
     display: flex;
     margin-top:30px;
