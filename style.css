@@ -98,10 +98,9 @@ footer{
     padding: 5px;
 }
 .made{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
+    width: 100%;
+    display:flex;
+    justify-content:center;
 }
 #my-footer-row-1{
     display: flex;
